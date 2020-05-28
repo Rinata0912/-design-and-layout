@@ -2,8 +2,15 @@
 @import url(./__navigation-list/header__navigation-list.css);
 @import url(./__navigation-link/header__navigation-link.css);
 @import url(./__navigation-item/header__navigation-item.css);
+@import url(./__content/header__content.css);
+@import url(./__content-title/header__content-title.css);
+@import url(./__content-subtitle/header__content-subtitle.css);
+@import url(./__content-info/header__content-info.css);
+@import url(./__content-illustration/header__content-illustration.css);
+@import url(./__content-button/header__content-button.css);
+@import url(./__navigation-link/_state/header__navigation-link_state_active.css);
 
 .header {
-  padding-top: 57px;
+  padding: 57px 0 146px;
   background-color: #E5E5E5;
 }

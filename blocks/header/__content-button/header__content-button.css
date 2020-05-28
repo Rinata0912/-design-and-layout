@@ -1,0 +1,10 @@
+.header__content-button {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0.1em;
+  padding: 25px 41px;
+  color: #fff;
+  background-color: #34547A;
+  border: none;
+}

@@ -1,6 +1,6 @@
 .header__navigation {
   max-width: 1103px;
-  margin: 0 auto;
+  margin: 0 auto 140px;
   display: flex;
   justify-content: space-between;
   align-items: center;
