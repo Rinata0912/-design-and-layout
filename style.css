@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.header {
+    margin: 0 auto;
+    width: 1105px;
+}
+
+.main__image {
+    width: 357px;
+    height: 233.7px;
+}
+
+.logo {
+    display: inline-block;
+}
+
+.logo__img {
+    width: 96px;
+    height: 60px;
+}
+
+.navigation {
+    display: inline-block;
+}
+
+.navigation__item {
+    text-decoration: none;
+    color: #34547A;
+    text-transform: uppercase;
+    margin: 0px 42px;
+    font-size: 16px;
+}
+
+.navigation__item:nth-child(1){
+    margin-left: 0px;
+}
+
+.navigation__item:last-child{
+    margin-right: 0px;
+}
+
