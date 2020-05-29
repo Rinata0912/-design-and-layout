@@ -1,0 +1,9 @@
+.about__description {
+  margin: 0 auto;
+  max-width: 540px;
+  text-align: center;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #727272;
+}

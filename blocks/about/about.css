@@ -1,0 +1,7 @@
+@import url(./__description/about__description.css);
+@import url(./__title/about__title.css);
+
+.about {
+  background-color: #F9F9F9;
+  padding: 119px 0 100px;
+}
