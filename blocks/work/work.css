@@ -1,0 +1,7 @@
+@import url(./__title/work__title.css);
+@import url(./__subtitle/work__subtitle.css);
+
+.work {
+  padding: 100px 0;
+  background-color: #E5E5E5;
+}

@@ -5,6 +5,7 @@
 @import url(../blocks/about/about.css);
 @import url(../blocks/progress/progress.css);
 @import url(../blocks/skills/skills.css);
+@import url(../blocks/work/work.css);
 
 * {
   outline: 1px solid red;
