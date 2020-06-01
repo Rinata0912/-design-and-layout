@@ -1,0 +1,8 @@
+.skills__info {
+  margin-right: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 445px;
+  width: 100%;
+}

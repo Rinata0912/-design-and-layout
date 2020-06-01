@@ -1,0 +1,15 @@
+@import url(./__info/skills__info.css);
+@import url(./__item/skills__item.css);
+@import url(./__list/skills__list.css);
+@import url(./__name/skills__name.css);
+@import url(./__photo/skills__photo.css);
+@import url(./__progress/skills__progress.css);
+@import url(./__title/skills__title.css);
+@import url(./__progress-line/skills__progress-line.css);
+
+.skills {
+  padding: 100px 0;
+  display: flex;
+  justify-content: center;
+  background-color: #E5E5E5;
+}

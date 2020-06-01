@@ -1,0 +1,11 @@
+@import url(./__item-name/progress__item-name.css);
+@import url(./__item-count/progress__item-count.css);
+@import url(./__item-pic/progress__item-pic.css);
+@import url(./__item-project/progress__item-project.css);
+@import url(./__item/progress__item.css);
+@import url(./__list/progress__list.css);
+
+.progress {
+  background-color: #34547A;
+  padding: 100px 0;
+}
