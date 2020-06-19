@@ -8,6 +8,8 @@
 @import url(../blocks/work/work.css);
 @import url(../blocks/projects/projects.css);
 @import url(../blocks/clients/clients.css);
+@import url(../blocks/feedback/feedback.css);
+@import url(../blocks/form/form.css);
 
 * {
   outline: 1px solid red;

@@ -1,0 +1,9 @@
+.form__item {
+  padding: 17.5px 20px;
+  border: none;
+  box-sizing: border-box;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 23px;
+  color: #5F5D5D;
+}

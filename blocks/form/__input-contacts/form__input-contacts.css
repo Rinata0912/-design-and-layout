@@ -1,0 +1,5 @@
+.form__input-contacts {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}

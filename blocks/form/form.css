@@ -1,0 +1,15 @@
+@import url(./__title/form__title.css);
+@import url(./__subtitle/form__subtitle.css);
+@import url(./__input-container/form__input-container.css);
+@import url(./__input-contacts/form__input-contacts.css);
+@import url(./__item/form__item.css);
+@import url(./__item/_el/form__item_el_email.css);
+@import url(./__item/_el/form__item_el_message.css);
+@import url(./__item/_el/form__item_el_name.css);
+@import url(./__button/form__button.css);
+
+.form {
+  max-width: 540px;
+  margin: 0 auto;
+  text-align: center;
+}

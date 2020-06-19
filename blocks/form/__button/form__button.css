@@ -1,0 +1,12 @@
+.form__button {
+  padding: 20px 19px;
+  border: none;
+  font: inherit;
+  color: #fff;
+  background-color: #34547A;
+  cursor: pointer;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 23px;
+  letter-spacing: 0.15em;
+}
