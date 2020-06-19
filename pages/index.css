@@ -10,6 +10,7 @@
 @import url(../blocks/clients/clients.css);
 @import url(../blocks/feedback/feedback.css);
 @import url(../blocks/form/form.css);
+@import url(../blocks/footer/footer.css);
 
 * {
   outline: 1px solid red;
