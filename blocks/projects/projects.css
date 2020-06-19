@@ -1,0 +1,9 @@
+@import url(./__item/projects__item.css);
+@import url(./__first-project/projects__first-project.css);
+@import url(./__second-project/projects__second-projects.css);
+
+ .projects {
+   display: grid;
+   grid-template-columns: repeat(4, 1fr);
+   grid-template-rows: repeat(2, 1fr);
+ }
