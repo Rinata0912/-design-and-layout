@@ -1,0 +1,7 @@
+.clients__item {
+  margin-right: 30px;
+}
+
+.clients__item:last-child {
+  margin-right: 0;
+}
